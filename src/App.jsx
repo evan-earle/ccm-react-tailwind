@@ -3,7 +3,7 @@ import {
   Footer,
   PopularProducts,
   Services,
-  SpecialOffer,
+  SkateLike,
   Hero,
   Subscribe,
   SuperQuality,
@@ -26,7 +26,7 @@ const App = () => (
       <Services />
     </section>
     <section className="padding">
-      <SpecialOffer />
+      <SkateLike />
     </section>
     <section className="bg-pale-blue padding">
       <CustomerReviews />

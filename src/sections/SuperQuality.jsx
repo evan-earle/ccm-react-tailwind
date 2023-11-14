@@ -18,7 +18,7 @@ const SuperQuality = () => {
           quality, innovation, and a touch of elegance.
         </p>
         <p className="mt-6 lg:max-w-lg info-text">
-          Our dedication to detail and excellence will ensure your satisfaction
+          Our dedication to detail and excellence will ensure your satisfaction.
         </p>
         <div className="mt-11">
           <Button label="View details" />
