@@ -25,7 +25,7 @@ const SpecialOffer = () => {
         </p>
         <p className="mt-6 lg:max-w-lg info-text">
           Lightweight and comfort to provide more energy transfer for faster
-          strides. Giving you the edge over your opponents.
+          strides giving you the edge over your opponents.
         </p>
         <div className="mt-11 flex flex-wrap gap-4">
           <Button label="Shop now" iconURL={arrowRight} />
