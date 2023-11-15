@@ -7,18 +7,15 @@ import {
   twitter,
 } from "../assets/icons";
 import {
-  bigShoe1,
-  bigShoe2,
-  bigShoe3,
+  bigSkate1,
+  bigSkate2,
+  bigSkate3,
   customer1,
   customer2,
   shoe4,
   shoe5,
   shoe6,
   shoe7,
-  thumbnailShoe1,
-  thumbnailShoe2,
-  thumbnailShoe3,
 } from "../assets/images";
 
 export const navLinks = [
@@ -28,18 +25,18 @@ export const navLinks = [
   { href: "#contact-us", label: "Contact Us" },
 ];
 
-export const shoes = [
+export const skates = [
   {
-    thumbnail: thumbnailShoe1,
-    bigShoe: bigShoe1,
+    thumbnail: bigSkate1,
+    bigSkate: bigSkate1,
   },
   {
-    thumbnail: thumbnailShoe2,
-    bigShoe: bigShoe2,
+    thumbnail: bigSkate2,
+    bigSkate: bigSkate2,
   },
   {
-    thumbnail: thumbnailShoe3,
-    bigShoe: bigShoe3,
+    thumbnail: bigSkate3,
+    bigSkate: bigSkate3,
   },
 ];
 
