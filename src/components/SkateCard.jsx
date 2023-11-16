@@ -9,7 +9,7 @@ const SkateCard = ({ imgURL, changeBigSkateImage, bigSkateImg }) => {
     <div
       className={`border-2 rounded-xl ${
         bigSkateImg === imgURL.bigSkate
-          ? "border-coral-red"
+          ? "border-red-700"
           : "border-transparent"
       } cursor-pointer max-sm:flex-1`}
       onClick={handleClick}

@@ -12,10 +12,10 @@ import {
   bigSkate3,
   customer1,
   customer2,
-  shoe4,
-  shoe5,
-  shoe6,
-  shoe7,
+  skate4,
+  skate5,
+  skate6,
+  skate7,
 } from "../assets/images";
 
 export const navLinks = [
@@ -48,24 +48,28 @@ export const statistics = [
 
 export const products = [
   {
-    imgURL: shoe4,
-    name: "Nike Air Jordan-01",
-    price: "$200.20",
+    imgURL: skate4,
+    name: "CCM JetSpeed Control Senior (2023)",
+    price: "$649.99",
+    rating: "(4.5)",
   },
   {
-    imgURL: shoe5,
-    name: "Nike Air Jordan-10",
-    price: "$210.20",
+    imgURL: skate5,
+    name: "CCM Tacks AS-V Pro Senior (2022)",
+    price: "$1,299.99",
+    rating: "(4)",
   },
   {
-    imgURL: shoe6,
-    name: "Nike Air Jordan-100",
-    price: "$220.20",
+    imgURL: skate6,
+    name: "CCM Ribcor Platinum Senior (2021)",
+    price: "$449.99",
+    rating: "(5)",
   },
   {
-    imgURL: shoe7,
-    name: "Nike Air Jordan-001",
-    price: "$230.20",
+    imgURL: skate7,
+    name: "CCM JetSpeed Shock Senior (2021)",
+    price: "$209.99",
+    rating: "(4.5)",
   },
 ];
 

@@ -8,13 +8,14 @@ import customer2 from "./customer2.svg";
 import footerLogo from "./footer-logo.svg";
 import headerLogo from "./header-logo.svg";
 
-import offer from "./offer.svg";
+import pro from "./pro.png";
 
-import shoe4 from "./shoe4.svg";
-import shoe5 from "./shoe5.svg";
-import shoe6 from "./shoe6.svg";
-import shoe7 from "./shoe7.svg";
-import shoe8 from "./shoe8.svg";
+import skate4 from "./skate4.png";
+import skate5 from "./skate5.png";
+import skate6 from "./skate6.png";
+import skate7 from "./skate7.png";
+
+import skate8 from "./skate8.png";
 
 import thumbnailBackground from "./thumbnail-background.svg";
 
@@ -26,11 +27,11 @@ export {
   customer2,
   footerLogo,
   headerLogo,
-  offer,
-  shoe4,
-  shoe5,
-  shoe6,
-  shoe7,
-  shoe8,
+  pro,
+  skate4,
+  skate5,
+  skate6,
+  skate7,
+  skate8,
   thumbnailBackground,
 };
