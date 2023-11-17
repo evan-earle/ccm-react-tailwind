@@ -41,9 +41,9 @@ export const skates = [
 ];
 
 export const statistics = [
-  { value: "1k+", label: "Brands" },
+  { value: "50+", label: "Countries" },
   { value: "500+", label: "Shops" },
-  { value: "250k+", label: "Customers" },
+  { value: "15m+", label: "Customers" },
 ];
 
 export const products = [
@@ -95,17 +95,17 @@ export const services = [
 export const reviews = [
   {
     imgURL: customer1,
-    customerName: "Morich Brown",
+    customerName: "Ryan Browning",
     rating: 4.5,
     feedback:
-      "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!",
+      "The attention to detail and the quality of my skates exceeded my expectations. Highly recommended!",
   },
   {
     imgURL: customer2,
-    customerName: "Lota Mongeskar",
-    rating: 4.5,
+    customerName: "Laura MacKenzie",
+    rating: 5,
     feedback:
-      "The product not only met but exceeded my expectations. I'll definitely be a returning customer!",
+      "My skates not only met but exceeded my expectations. I'll definitely be a returning customer!",
   },
 ];
 
